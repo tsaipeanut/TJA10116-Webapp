@@ -9,6 +9,8 @@ public class StoreVO implements java.io.Serializable{
 	private String storeTime;
 	private String storeStatus;
 	private Timestamp createTime;
+	
+	
 	public Integer getStoreId() {
 		return storeId;
 	}
